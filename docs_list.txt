@@ -4,11 +4,11 @@
 │   │   └── Rockchip_Developer_Guide_PulseAudio_CN.pdf
 │   ├── AVL
 │   │   ├── Latest-Release-AVL-Link.txt
-│   │   ├── RKeMMCSupportList_Ver1.65_20220420.pdf
+│   │   ├── RKeMMCSupportList_Ver1.66_20220610.pdf
 │   │   ├── RKNandFlashSupportList_Ver2.73_20180615.pdf
-│   │   ├── RK_SpiNor_and_SLC_Nand_SupportList_V1.36_20220315.pdf
-│   │   ├── Rockchip_Support_List_DDR_Ver2.52.pdf
-│   │   └── Rockchip_Support_List_Linux_WiFi_BT.pdf
+│   │   ├── RK_SpiNor_and_SLC_Nand_SupportList_Ver1.37_20220513.pdf
+│   │   ├── Rockchip_Support_List_DDR_Ver2.53.pdf
+│   │   └── Rockchip_Support_List_Linux_WiFi_BT_20220605.pdf
 │   ├── CAMERA
 │   │   ├── ISP2X
 │   │   │   ├── Rockchip_Color_Optimization_Guide_ISP20_CN_v1.2.8.pdf
@@ -72,7 +72,9 @@
 │   │   ├── Rockchip_DRM_Panel_Porting_Guide_V1.6_20190228.pdf
 │   │   ├── Rockchip_DRM_RK628_Porting_Guide_CN.pdf
 │   │   ├── Rockchip_MCU_RK628D_Porting_Guide_CN.pdf
+│   │   ├── Rockchip_RK3588_Developer_Guide_DisplayPort_CN.pdf
 │   │   ├── Rockchip_RK628D_Application_Notes_CN.pdf
+│   │   ├── Rockchip_RK628D_For_All_Porting_Guide_CN.pdf
 │   │   └── Rockchip_VOP2_Plane_Assign.pdf
 │   ├── DVFS
 │   │   ├── Rockchip_Developer_Guide_CPUFreq_CN.pdf
@@ -131,6 +133,7 @@
 │   │   └── Rockchip_Developer_Guide_Secure_Boot_for_UBoot_Next_Dev_EN.pdf
 │   ├── PCIe
 │   │   ├── Rockchip_Developer_Guide_PCIe_CN.pdf
+│   │   ├── Rockchip_Developer_Guide_PCIe_Performance_CN.pdf
 │   │   ├── Rockchip_PCIe_Virtualization_Developer_Guide_CN.pdf
 │   │   └── Rockchip_RK3399_Developer_Guide_PCIe_CN.pdf
 │   ├── PERF
@@ -139,8 +142,8 @@
 │   │   ├── Rockchip_Quick_Start_Linux_Streamline_CN.pdf
 │   │   └── Rockchip_Quick_Start_Linux_Systrace_CN.pdf
 │   ├── Pin-Ctrl
-│   │   ├── Rockchip-Developer-Guide-Linux-Pin-Ctrl-CN.pdf
-│   │   └── Rockchip_Problem_Shooting_Linux_GPIO_CN.pdf
+│   │   ├── Rockchip_Developer_Guide_Linux_Pinctrl_CN.pdf
+│   │   └── Rockchip_Developer_Guide_Linux_Pinctrl_EN.pdf
 │   ├── PMIC
 │   │   ├── Rockchip_Developer_Guide_Power_Discrete_DCDC_EN.pdf
 │   │   ├── Rockchip_RK805_Developer_Guide_CN.pdf
@@ -171,6 +174,7 @@
 │   │   ├── RKUpgrade_Dll_UserManual.pdf
 │   │   ├── Rockchip_Introduction_Partition_CN.pdf
 │   │   ├── Rockchip_Introduction_Partition_EN.pdf
+│   │   ├── Rockchip_User_Guide_Production_For_Firmware_Download_CN.pdf
 │   │   └── Rockchip-User-Guide-ProductionTool-CN.pdf
 │   ├── TRUST
 │   │   ├── Rockchip_Developer_Guide_Trust_CN.pdf
@@ -194,6 +198,7 @@
 │   ├── USB
 │   │   ├── Rockchip_Developer_Guide_Linux_USB_Initialization_Log_Analysis_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_Linux_USB_Performance_Analysis_CN.pdf
+│   │   ├── Rockchip_Developer_Guide_Linux_USB_PHY_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_USB2_Compliance_Test_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_USB_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_USB_EN.pdf
@@ -214,12 +219,11 @@
 │   │   ├── Rockchip_Developer_Guide_Debian_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_Debian_Docker_EN.pdf
 │   │   ├── Rockchip_Developer_Guide_Debian_EN.pdf
+│   │   ├── Rockchip_Developer_Guide_Linux_Docker_Deploy_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_Linux_Flash_Open_Source_Solution_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_Linux_Flash_Open_Source_Solution_EN.pdf
 │   │   ├── Rockchip_Developer_Guide_Linux_PCBA_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_Linux_PCBA_EN.pdf
-│   │   ├── Rockchip_Developer_Guide_Linux_Qt_CN.pdf
-│   │   ├── Rockchip_Developer_Guide_Linux_Qt_EN.pdf
 │   │   ├── Rockchip_Developer_Guide_Third_Party_System_Adaptation_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_Third_Party_System_Adaptation_EN.pdf
 │   │   ├── Rockchip_Instruction_Linux_ROS2_CN.pdf
